@@ -76,7 +76,7 @@ nav ul li a:hover{
     
 }
 .btn-post:hover{
-    background-color: #444;
+    background-color: rgb(228, 238, 88);
 }
 
 .btn{
@@ -93,18 +93,20 @@ nav ul li a:hover{
     margin: 40px 0px; 
     
 }
-.product h4{
+h4{
     
     font-size: 18px;
-    color: #000000;
+    color: #111;
     padding: 10px 20px;
     text-transform: uppercase;
     border: 1px solid #bebebe;
     display: inline-block;
     color: #555;
     font-weight: 600;
-    
-
+}
+.title{
+    text-align: center;
+    margin: 20px 0px;
 }
 .product-list{
     display: flex;
